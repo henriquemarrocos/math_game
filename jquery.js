@@ -5,7 +5,7 @@ var correctAnswer;
 var playing = false;
 var score = 0;
 var timeremaining = 30;
-$("#gameover").show();
+$("#gameover").hide();
 
 var document;
 
